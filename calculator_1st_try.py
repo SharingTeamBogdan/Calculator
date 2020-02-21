@@ -9,7 +9,7 @@ n=input("What type is your number? ")
 if(n=='float'):
 	x=float(input())
 elif(n=='int'):
-	x=int(input)
+	x=int(input())
 op=input()
 if(op=="+"):
 	if(types()==0):
